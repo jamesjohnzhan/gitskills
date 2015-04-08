@@ -1,2 +1,3 @@
 # gitskills
 this is my gitskills!
+Git is a free software ...
